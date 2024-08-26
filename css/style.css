@@ -1,4 +1,17 @@
 
+
+button{
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+    background-color: #44D2F6;
+    color: white;
+}
+
+
+
+
+
 /*** Spinner Start ***/
 /*** Spinner ***/
 #spinner {
